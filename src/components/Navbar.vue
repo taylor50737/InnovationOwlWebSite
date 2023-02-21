@@ -9,7 +9,7 @@ export default {
 </script>
 <template>
   <nav
-    class="fixed top-0 z-40 z-10 flex w-full flex-wrap items-center justify-between p-12"
+    class="fixed top-0 z-40 z-10 flex w-full flex-wrap items-center justify-between p-12 bg-white bg-opacity-50"
   >
     <div class="mr-6 flex flex-shrink-0 items-center text-white">
       <span class="tracking-tight">

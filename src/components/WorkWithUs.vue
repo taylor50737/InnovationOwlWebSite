@@ -27,7 +27,7 @@ export default {
         <a
           href="https://wa.me/85265962899"
           target="_blank"
-          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110"
+          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110 transition delay-150 ease-in-out"
         >
           <div class="relative">
             <div class="font-['Ubuntu']">
@@ -43,7 +43,7 @@ export default {
         <a
           href="https://wa.me/85251947007"
           target="_blank"
-          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110"
+          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110 transition delay-150 ease-in-out"
         >
           <div class="relative">
             <div class="font-['Ubuntu']">
@@ -59,7 +59,7 @@ export default {
         <a
           href="https://wa.me/85251136408"
           target="_blank"
-          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110"
+          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110 transition delay-150 ease-in-out"
         >
           <div class="relative">
             <div class="font-['Ubuntu']">
