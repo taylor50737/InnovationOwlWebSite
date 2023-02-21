@@ -13,7 +13,7 @@ export default {
   >
     <div class="mr-6 flex flex-shrink-0 items-center text-white">
       <span class="tracking-tight">
-        <a href="/">
+        <a href="#home">
           <img src="/image/owl_logo_2x.png" class="w-34 h-12 object-cover" />
         </a>
       </span>
