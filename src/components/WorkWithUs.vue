@@ -25,14 +25,13 @@ export default {
       <br /><br /><br /><br />
       <div class="grid grid-cols-3 justify-between gap-36">
         <a
-          href="https://wa.me/85265962899"
-          target="_blank"
-          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110 transition delay-150 ease-in-out"
+          href="#work-with-us"
+          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white transition delay-150 ease-in-out hover:scale-110"
         >
           <div class="relative">
             <div class="font-['Ubuntu']">
               <div class="text-xs">Byrant</div>
-              <div class="text-xl">(+852) 6596 2899</div>
+              <div class="text-xl">(+852) 6596 XXXX</div>
             </div>
             <img
               class="absolute -top-20 left-28 scale-50"
@@ -41,14 +40,13 @@ export default {
           </div>
         </a>
         <a
-          href="https://wa.me/85251947007"
-          target="_blank"
-          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110 transition delay-150 ease-in-out"
+          href="#work-with-us"
+          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white transition delay-150 ease-in-out hover:scale-110"
         >
           <div class="relative">
             <div class="font-['Ubuntu']">
               <div class="text-xs">Chris</div>
-              <div class="text-xl">(+852) 5194 7007</div>
+              <div class="text-xl">(+852) 5194 XXXX</div>
             </div>
             <img
               class="absolute -top-20 left-28 scale-50"
@@ -57,14 +55,13 @@ export default {
           </div>
         </a>
         <a
-          href="https://wa.me/85251136408"
-          target="_blank"
-          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white hover:scale-110 transition delay-150 ease-in-out"
+          href="#work-with-us"
+          class="leading-2 rounded-tl-lg rounded-br-lg bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-3 pl-8 pr-20 text-white transition delay-150 ease-in-out hover:scale-110"
         >
           <div class="relative">
             <div class="font-['Ubuntu']">
               <div class="text-xs">Hugo</div>
-              <div class="text-xl">(+852) 5114 6408</div>
+              <div class="text-xl">(+852) 5114 XXXX</div>
             </div>
             <img
               class="absolute -top-16 left-28 scale-50"
@@ -78,7 +75,7 @@ export default {
       class="absolute bottom-0 h-28 w-full bg-gradient-to-r from-cyan-custom via-sky-blue to-blue-custom py-8 text-center font-['Ubuntu'] leading-5 text-white"
     >
       <h6 class="text-xs">Or By Mail</h6>
-      <a href="mailto:cs@innovationowl.com" class="text-3xl underline"
+      <a href="#work-with-us" class="text-3xl underline"
         >cs@innovationowl.com</a
       >
     </div>
